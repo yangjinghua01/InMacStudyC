@@ -3,7 +3,7 @@
 //
 #include <stdlib.h>
 #include "stdio.h"
-int main(){
+int main543543(){
     int num;
     printf("请输入数字的个数：");
     scanf("%d",&num);
