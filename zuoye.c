@@ -30,7 +30,7 @@ void submintAction(char * result, char *str, int *start, int *end) {
     }
 }
 
-int main() {
+int mainer() {
     char *str = "Derry is";
     char result[20];
     char * result2;
