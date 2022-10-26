@@ -14,7 +14,7 @@ enum CommentType {
 };
 typedef enum CommentType com;
 
-int main() {
+int main143333333() {
 //    Clion 工具写法
     enum CommentType commentType = TEXT;
     enum CommentType commentType1 =TEXT_IMAGE ;
