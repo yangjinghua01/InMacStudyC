@@ -5,7 +5,7 @@
 #include "string.h"
 # include "stdlib.h"
 #include "mm_malloc.h"
-int main(){
+int mainioasek(){
     char *fileNameStr = "/Users/yangjinghua/CLionProjects/untitled/1.txt";
     FILE *file = fopen(fileNameStr, "rb");
     if (!file) {
