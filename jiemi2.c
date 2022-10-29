@@ -5,7 +5,7 @@
 #include "string.h"
 # include "stdlib.h"
 #include "mm_malloc.h"
-int main(){
+int mainhjk(){
     char * fileNameStr  = "/Users/yangjinghua/CLionProjects/untitled/jiamidel123.png";
     char *fileNameStrEncode  = "/Users/yangjinghua/CLionProjects/untitled/jiemidel123.png";
     //    密钥
